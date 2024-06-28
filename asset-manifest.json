@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myreactapps/static/css/main.88783bc4.css",
-    "main.js": "/myreactapps/static/js/main.bf839d06.js",
+    "main.css": "/myreactapps/static/css/main.87e07974.css",
+    "main.js": "/myreactapps/static/js/main.d5865d9f.js",
     "static/js/453.e9ed37cf.chunk.js": "/myreactapps/static/js/453.e9ed37cf.chunk.js",
     "static/media/AkubeDark.jpg": "/myreactapps/static/media/AkubeDark.d8265082c7994396aa49.jpg",
     "index.html": "/myreactapps/index.html",
-    "main.88783bc4.css.map": "/myreactapps/static/css/main.88783bc4.css.map",
-    "main.bf839d06.js.map": "/myreactapps/static/js/main.bf839d06.js.map",
+    "main.87e07974.css.map": "/myreactapps/static/css/main.87e07974.css.map",
+    "main.d5865d9f.js.map": "/myreactapps/static/js/main.d5865d9f.js.map",
     "453.e9ed37cf.chunk.js.map": "/myreactapps/static/js/453.e9ed37cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88783bc4.css",
-    "static/js/main.bf839d06.js"
+    "static/css/main.87e07974.css",
+    "static/js/main.d5865d9f.js"
   ]
 }
